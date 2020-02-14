@@ -1,3 +1,5 @@
+// Java and JavaScript are diffrent programing langauages so naming a JS file java doesn't make much sense
+
 1.
 // let question=("My name is: ");
 // let name=("Mary");
@@ -14,7 +16,7 @@
 // console.log( parseInt(grade) + parseInt(credit));
 
 4.
-let balance=prompt("What is your balance?");
-let deduction=prompt("How much do you want to deduct?");
-let total=balance - deduction;
-console.log(total);
+// let balance=prompt("What is your balance?");
+// let deduction=prompt("How much do you want to deduct?");
+// let total=balance - deduction;
+// console.log(total);

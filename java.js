@@ -14,3 +14,7 @@
 // console.log( parseInt(grade) + parseInt(credit));
 
 4.
+let balance=prompt("What is your balance?");
+let deduction=prompt("How much do you want to deduct?");
+let total=balance - deduction;
+console.log(total);
